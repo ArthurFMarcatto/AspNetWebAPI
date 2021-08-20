@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\adefreitasma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adefreitasma\\.nuget\\packages"
+    ]
+  }
+}
